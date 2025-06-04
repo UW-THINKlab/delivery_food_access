@@ -6,5 +6,5 @@ The repository is organized as follows:
 - `data/`: contains the data used in the paper
 - `figures/`: contains the figures generated in the paper
 - `scripts/`: contains the scripts used to generate the figures and tables used in manuscript and supplemental materials
-- `manuscript`: contains the manuscript and supplemental materials of the paper (to be uploaded soon)
+- `manuscript`: contains the manuscript and supplemental materials of the published paper
 - `README.md`: this file
